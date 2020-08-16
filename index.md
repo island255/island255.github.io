@@ -6,7 +6,7 @@
 
 在MSR2020上发表论文：
 
-**From Innovations to Prospects: What Is Hidden Behind Cryptocurrencies?**
+From Innovations to Prospects: What Is Hidden Behind Cryptocurrencies?
 
 
 

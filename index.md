@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## 基本信息
 
-You can use the [editor on GitHub](https://github.com/island255/island255.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+贾昂， 西安交通大学网络空间安全学院在读博士生；
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+西安交通大学计算机科学与技术，工商管理双学位学士；
 
-### Markdown
+在MSR2020上发表论文：**From Innovations to Prospects: What Is Hidden Behind Cryptocurrencies?**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 研究方向
 
-```markdown
-Syntax highlighted code block
+代码克隆检测、智能合约安全分析
 
-# Header 1
-## Header 2
-### Header 3
+## 教育经历
 
-- Bulleted
-- List
+2020年9月~至今      西安交通大学，网络空间安全学院，在读博士
 
-1. Numbered
-2. List
+2018年9月~2020年9月 西安交通大学，网络空间安全学院，在读硕士
 
-**Bold** and _Italic_ and `Code` text
+2014年9月~2018年9月 西安交通大学，计算机科学
 
-[Link](url) and ![Image](src)
-```
+## 科研成果
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Ang Jia, Ming Fan, Xi Xu, Di Cui, Wenying Wei, Zijiang Yang, Kai Ye, Ting Liu. "From Innovations to Prospects: What Is Hidden Behind Cryptocurrencies?". The 17th International Conference on Mining Software Repositories (MSR), 2020, (CCF C).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/island255/island255.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Xi Xu, Ming Fan, Ang Jia, Yin Wang, Zheng Yan, Qinghua Zheng, Ting Liu. "Revisiting the Challenges and Opportunities in Software Plagiarism Detection". 27th IEEE International Conference on Software Analysis, Evolution and Reengineering Early Research Achievement Track (SANER-ERA), 2020, (CCF B).

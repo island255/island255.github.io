@@ -4,7 +4,9 @@
 
 西安交通大学计算机科学与技术，工商管理双学位学士；
 
-在MSR2020上发表论文：**From Innovations to Prospects: What Is Hidden Behind Cryptocurrencies?**
+在MSR2020上发表论文：
+
+**From Innovations to Prospects: What Is Hidden Behind Cryptocurrencies?**
 
 ### 研究方向
 

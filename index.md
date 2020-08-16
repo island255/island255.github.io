@@ -8,9 +8,13 @@
 
 **From Innovations to Prospects: What Is Hidden Behind Cryptocurrencies?**
 
-### 研究方向
+
+
+## 研究方向
 
 代码克隆检测、智能合约安全分析
+
+
 
 ## 教育经历
 
@@ -20,9 +24,13 @@
 
 2014年9月~2018年9月 西安交通大学，计算机科学
 
+
+
 ## 科研成果
 
 Ang Jia, Ming Fan, Xi Xu, Di Cui, Wenying Wei, Zijiang Yang, Kai Ye, Ting Liu. "From Innovations to Prospects: What Is Hidden Behind Cryptocurrencies?". The 17th International Conference on Mining Software Repositories (MSR), 2020, (CCF C). <a href="https://github.com/island255/MSR2020_cryptocurrency/blob/master/From%20Innovations%20to%20Prospects%20What%20Is%20Hidden%20Behind%20Cryptocurrencies.pdf">Download PDF</a>
 
 
 Xi Xu, Ming Fan, Ang Jia, Yin Wang, Zheng Yan, Qinghua Zheng, Ting Liu. "Revisiting the Challenges and Opportunities in Software Plagiarism Detection". 27th IEEE International Conference on Software Analysis, Evolution and Reengineering Early Research Achievement Track (SANER-ERA), 2020, (CCF B).
+
+
